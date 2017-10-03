@@ -4,7 +4,7 @@ Firmware para el *[módulo ESP-01 de Espressif](https://www.espressif.com/en/pro
 
 ## Descarga
 
-Descarga la **[última versión aquí](https://github.com/mgesteiro/escornabot-MUWi/releases/latest)**
+Descarga la **[última versión aquí](https://github.com/escornabot/esp-muwi/releases/latest)**
 
 ## Instalación
 
