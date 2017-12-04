@@ -9,7 +9,7 @@ Nuevo:
 - Mando Universal remoto para cualquier dispositivo
 
 
-# v1.1 (4 dic 2017)
+## v1.1 (4 dic 2017)
 
 Nuevo:
 - Añadidos gráficos (SVG) para los botones
