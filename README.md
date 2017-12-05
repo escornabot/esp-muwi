@@ -16,7 +16,7 @@ https://aindustriosa.org/2017/09/escornabot-muwi-mucho-mas-que-wifi/
 
 ## Capturas
 
-![Escornabot MUWi-01](Escornabot-MUWi-01.png) ![Escornabot MUWi-02](Escornabot-MUWi-02.png)
+<img src="Escornabot-MUWi-01.png" width="350" /> <img src="Escornabot-MUWi-02.png" width="350" />
 
 
 <!-- links -->
