@@ -14,6 +14,10 @@ carpeta *MUWi*.
 Puedes encontrar un artículo con los detalles aquí:
 https://aindustriosa.org/2017/09/escornabot-muwi-mucho-mas-que-wifi/
 
+## Capturas
+
+![Escornabot MUWi-01](Escornabot-MUWi-01.png) ![Escornabot MUWi-02](Escornabot-MUWi-02.png)
+
 
 <!-- links -->
 [ESCGH]: https://github.com/escornabot/
