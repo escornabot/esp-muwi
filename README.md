@@ -13,7 +13,7 @@ carpeta *MUWi*.
 
 Puedes encontrar un artículo con los detalles aquí:
 
-https://mgesteiro.com/articles/muwi/
+<a href="https://mgesteiro.com/articles/muwi/" target="_blank">https://mgesteiro.com/articles/muwi/</a>
 
 ## Capturas
 
