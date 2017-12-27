@@ -12,7 +12,8 @@ Utiliza cualquier herramienta para programar tu ESP-01 con el firmware de la
 carpeta *MUWi*.
 
 Puedes encontrar un artículo con los detalles aquí:
-https://aindustriosa.org/2017/09/escornabot-muwi-mucho-mas-que-wifi/
+
+https://mgesteiro.com/articles/muwi/
 
 ## Capturas
 
